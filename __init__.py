@@ -4,7 +4,7 @@ from kiwoom.kiwoom import *
 
 class Main():
     def __init__(self):
-        print("실행할 메인 클래스")
+        print("메인 클래스 실행")
 
         UI_class()
 
